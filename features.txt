@@ -1,0 +1,6 @@
+calcs your fuel efficiency based on kms travelled and liters consumed / refilled
+graphs previous recorded
+able to switch from car to car
+
+TODO:
+add sorting options to view menu
